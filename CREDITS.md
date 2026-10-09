@@ -13,7 +13,7 @@ This repository provides an independently maintained Codex skill and a read-only
 
 The protocol notes summarize publicly inspectable manager behavior and link to the upstream implementation. This repository contains locally authored skill instructions and the local Python validation helper; it does not distribute Garlic SaveMgr source code, binaries, payloads or third-party game/save data.
 
-At the inspected revision, the upstream repository root had no LICENSE file, and GitHub repository metadata declared no license. A public repository alone does not grant permission to redistribute its implementation under a chosen license. Use upstream links for the manager, and verify upstream terms before copying or modifying its code for redistribution. A future license for this skill applies only to this repository's original material.
+At the inspected revision, the upstream repository root had no LICENSE file, and GitHub repository metadata declared no license. A public repository alone does not grant permission to redistribute its implementation under a chosen license. Use upstream links for the manager, and verify upstream terms before copying or modifying its code for redistribution. The [MIT License](LICENSE) in this repository applies only to this repository's original skill documentation and local validation helper. It does not license Garlic SaveMgr, PS5 Payload SDK, or game/save data.
 
 ## Other upstream acknowledgments
 
