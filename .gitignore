@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.zip
+sdimg_*
+*.save
+*.log
+.env
+.env.*
+source/
+before/
+candidate/
+records/
